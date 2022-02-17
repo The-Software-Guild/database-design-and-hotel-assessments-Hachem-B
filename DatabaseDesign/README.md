@@ -10,7 +10,7 @@ address: varchar (255)<br />
 <h3>follower</h3>
 <b>id (PK) (int)<br />
 name: varchar(120)<br />
-email: varchar(120)
+email: varchar(120)<br />
 creation_date: datetime</b><br />
 address: varchar (255)<br />
 <h3>photo_account</h3>
