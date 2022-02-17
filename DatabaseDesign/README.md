@@ -47,6 +47,7 @@ photo_id (FK2)<br />
 comment_id(FK3)<br />
 
 
+<h2>Use of the database</h2>
 
 <p>We will use this database to see:<br />
 * The followers to an account<br />
