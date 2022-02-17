@@ -15,7 +15,7 @@ creation_date: datetime</b><br />
 address: varchar (255)<br />
 <h3>photo_account</h3>
 <b>account_id (PK,FK) (int)<br />
-photo_id (PK,FK)</b><br />
+photo_id (PK,FK)(int)</b><br />
 <h3>photo</h3>
 <b>id (PK) (int)<br />
 privacy: varchar(50)</b><br />
