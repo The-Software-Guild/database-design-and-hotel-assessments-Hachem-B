@@ -38,11 +38,11 @@ description: varchar (255)<br />
 <b>id (PK) (int)<br />
 photo_id (FK1)<br />
 post_date: datetime<br />
-content: varchar(255)</b>
+content: varchar(255)</b><br />
 like_id(FK2)<br />
 <h3>like</h3>
 <b>id (PK) (int)<br />
-follower_id(FK1)</b>
+follower_id(FK1)</b><br />
 photo_id (FK2)<br />
 comment_id(FK3)<br />
 
